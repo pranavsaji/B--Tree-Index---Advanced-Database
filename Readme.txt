@@ -1,3 +1,5 @@
+Academic Project
+
 RUNNING THE SCRIPT
 ==========================
 
@@ -15,20 +17,6 @@ $ make run_expr
 
 ================================
 
-Group Memebers:
-
-    1.  Name : Pranit Gorakhnath Kotkar
-        Email : pkotkar1@hawk.iit.edu
-        CWID : A20512027
-
-    2.  Name : Pranav Saji
-        Email : psaji@hawk.iit.edu
-        CWID : A20518289
-
-    3.  Name : kirthika subramaniam B
-        Email :ksubramaniam@hawk.iit.edu
-        CWID : A20512536
-=======================================
 
 CUSTOM B+ TREE FUNCTIONS (btree_implement.h)
 
